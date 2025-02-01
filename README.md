@@ -8,7 +8,7 @@ Software developer passionate about turning ideas into code and solving real-wor
 - 💞️ I'm looking to collaborate on open-source projects and innovative web applications
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/henry-falolu-470a99313/)
-  - [Twitter]([your-twitter-url](https://x.com/FaloluH77473))
+  - [Twitter]([https://x.com/FaloluH77473]())
   - Email: henryfalolu1@gmail.com
 
 - ⚡ Fun fact: I once debugged code in my dreams and woke up with the solution!
